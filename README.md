@@ -20,7 +20,7 @@ Seeking a position as an Interactive Developer (Haxe, Scaleform, Flash, AIR, HTM
 
 * Instagram bot for copying texts/links/emails/phones (sources are private)
 
-    https://www.instagram.com/get.texts/
+    https://www.instagram.com/get.texts
     NodeJS, Haxe, Docker
 
 * Figma API lib for Haxe
