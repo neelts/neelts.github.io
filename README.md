@@ -30,7 +30,16 @@ Seeking a position as an Interactive Developer (Haxe, Scaleform, Flash, AIR, HTM
 * Telegram Bot API lib for Haxe
 
     https://github.com/neelts/telegram-bot-api-hx
-    
+
+## Conference talks
+
+* Porting Scaleform UI to Haxe
+
+	https://www.youtube.com/watch?v=LxD5ItFy8Ms&list=PL6NuNyQgv4-60ah4-CVQuOzNRyrJZTIMW&index=15 (Talk video)
+	https://prezi.com/view/3zBae4fEMzIQGTBTqLlD (Slides)
+	https://twitter.com/HaxeSummit/status/906188360749907968
+	https://summit.haxe.org
+
 ## Work experience
 
 ### Mail.ru Group
