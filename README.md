@@ -44,6 +44,7 @@ Seeking a position as an Interactive Developer (Haxe, Scaleform, Flash, AIR, HTM
 	https://aw.my.com/
     
     Integrated Haxe compiler into UI development pipeline to replace AS 2.0
+    
     Changed whole UI production process with Figma API integration
     
 * SkyForge MMORPG (Scaleform, ActionScript 3.0)
