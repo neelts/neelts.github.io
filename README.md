@@ -33,7 +33,7 @@ Seeking a position as an Interactive Developer (Haxe, Scaleform, Flash, AIR, HTM
 
 ## Conference talks
 
-* Porting Scaleform UI to Haxe
+* Haxe Summit Amsterdam 2017 — Porting Scaleform UI to Haxe
 
 	https://youtu.be/LxD5ItFy8Ms?list=PL6NuNyQgv4-60ah4-CVQuOzNRyrJZTIMW (Talk video)
 	
