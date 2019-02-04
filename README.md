@@ -22,6 +22,14 @@ Seeking a position as an Interactive Developer (Haxe, Scaleform, HTML5, etc...)
 
     https://www.instagram.com/get.texts
     NodeJS, Haxe, Docker
+    
+* Instagram bot for viewing profile avatar images (opensource)
+
+    https://www.instagram.com/get.avatar 
+    NodeJS, Haxe, Docker
+    
+    https://github.com/neelts/instagram-direct-bot
+    
 
 * Figma API lib for Haxe
 
