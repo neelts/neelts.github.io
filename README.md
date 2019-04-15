@@ -50,6 +50,12 @@ Seeking a position as an Interactive Developer (Haxe, Scaleform, HTML5, etc...)
 	https://twitter.com/HaxeSummit/status/906188360749907968
 	
 	https://summit.haxe.org
+	
+* The Big Deal Conference 2019 by Mail.Ru — Speeding up UI Development with Figma and Haxe
+
+	NDA for now (talk was only for company employees)
+	
+	https://tbdconf.com/
 
 ## Work experience
 
