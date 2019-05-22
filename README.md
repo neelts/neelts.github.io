@@ -2,7 +2,7 @@
 
 ## Neil Akhmetov
 
-Seeking a position as an Interactive Developer (Haxe, Scaleform, HTML5, etc...)
+Seeking a position as an UI/UX Developer (Haxe, TypeScript, HTML5, Scaleform etc...)
 
 #### Relocation
 
