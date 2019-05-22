@@ -1,4 +1,4 @@
-# Interactive Developer
+# UI/UX Developer
 
 ## Neil Akhmetov
 
