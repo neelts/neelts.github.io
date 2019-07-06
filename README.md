@@ -65,6 +65,14 @@ Seeking a position as an UI/UX Developer (Haxe, TypeScript, HTML5, Scaleform etc
 
 #### UI Developer
 
+* WarFace (Scaleform, Haxe, C++)
+
+	https://wf.my.com/en/
+	
+    Integrated Haxe compiler into UI development pipeline to replace AS 2.0	
+
+    Changed whole UI production process with Figma API integration
+
 * Armored Warfare (Scaleform, Haxe)
 
 	https://aw.my.com/
