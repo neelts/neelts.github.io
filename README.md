@@ -29,7 +29,8 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
     * QA's don't need to spend time comparing the created UI's with designs.
     * Reduced design and development time for the complex UI's from 1 month to 1 week.
     * The company spends up to 4 times less money on one developer/designer (now we only pay for a Figma subscription).
-    * To get a better idea of how cool it is, watch this video showing how I used my Figma pipeline to create a real working Phantom Brigade actions panel: https://www.youtube.com/watch?v=RQmzafva8uw (I've used only E3 2019 gameplay trailer and screenshots as a source)
+    * To get a better idea of how cool it is, watch this video showing how I used my Figma pipeline to create a real working Phantom Brigade actions panel: https://www.youtube.com/watch?v=RQmzafva8uw (I've used only E3 2019 gameplay trailer and screenshots as a source
+    * Also check the design itself in Figma: https://www.figma.com/file/bq8wTArnkmHA1Onw8Ao5RR7n/BYG?node-id=2%3A10
     * https://figma.com
 
 ## Pet Projects
