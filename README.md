@@ -2,14 +2,35 @@
 
 ## Neil Akhmetov
 
-Seeking a position as an UI/UX Developer (Haxe, TypeScript, HTML5, Scaleform etc...)
+Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript, HTML5 etc...)
 
 #### Relocation
 
-* USA
 * Canada
+* USA
 * Netherlands
 * New Zealand
+
+## Achievements
+
+> Over the past 3 years, I've changed the whole UI production process in 3 AAA titles.
+
+* Integrated modern Haxe compiler to replace ActionScript.
+
+    * In a few weeks more than 10 developers (for now) have learned a new language
+    * Reduced the overall rate of bugs, thanks to the very strict language.
+    * Constantly improving and making new dev features, thanks to macros. (For example we have reduced the boilerplate code to zero).
+    * https://haxe.org
+
+* Made a tool with Figma API integration to auto-export UI's directly from Figma to the game engine in seconds.
+
+    * Thanks to this integration, 5 UI designers were able to finally switch from Photoshop to Figma.
+    * Developers don't need to manually create a UI in Flash or anywhere else.
+    * QA's don't need to spend time comparing the created UI's with designs.
+    * Reduced design and development time for the complex UI's from 1 month to 1 week.
+    * The company spends up to 4 times less money on one developer/designer (now we only pay for a Figma subscription).
+    * To get a better idea of how cool it is, watch this video showing how I used my Figma pipeline to create a real working Phantom Brigade actions panel: https://www.youtube.com/watch?v=RQmzafva8uw (I've used only E3 2019 gameplay trailer and screenshots as a source)
+    * https://figma.com
 
 ## Pet Projects
 
@@ -58,6 +79,8 @@ Seeking a position as an UI/UX Developer (Haxe, TypeScript, HTML5, Scaleform etc
 	https://tbdconf.com/
 
 ## Work experience
+
+> 10+ years in the UI/UX development. 5+ years at GameDev.
 
 ### Mail.ru Group
 
