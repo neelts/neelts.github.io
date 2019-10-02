@@ -35,6 +35,19 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
 
 ## Pet Projects
 
+* Figma Plugins
+
+    ##### Resize To Frame
+    https://www.figma.com/c/plugin/753968999663099454/Resize-to-Frame
+    
+    https://github.com/neelts/figma-resize-to-frame
+    TypeScript
+    
+    ##### Create Component Inside
+    https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside
+    
+    TypeScript
+
 * Unofficial Coub app with Android TV support
 
     https://github.com/neelts/coub-tv
