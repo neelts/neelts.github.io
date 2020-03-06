@@ -51,6 +51,8 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
     https://github.com/neelts/figma-resize-to-frame
     TypeScript
 
+* Unofficial app for Are.na built with Flutter. WIP.
+
 * Unofficial Coub app with Android TV support
 
     https://github.com/neelts/coub-tv
