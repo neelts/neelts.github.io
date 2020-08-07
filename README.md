@@ -13,7 +13,7 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
 
 ## Achievements
 
-> Over the past 3 years, I've changed the whole UI production process in 3 AAA titles.
+> Over the past 3 years, I've changed the whole UI production process in 3 AAA titles. Warface Breakout is the latest one.
 
 * Integrated modern Haxe compiler to replace ActionScript.
 
@@ -107,13 +107,13 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
 
 #### UI Developer
 
-* WarFace (Scaleform, Haxe, C++)
+* Warface Breakout (Scaleform, Haxe, C++)
 
-	https://wf.my.com/en/
+	https://playbreakout.com
 	
-    Integrated Haxe compiler into UI development pipeline to replace AS 2.0	
-
-    Changed whole UI production process with Figma API integration
+    Developed whole UI from scratch with Figma integration
+    
+    Integrated Haxe compiler into UI development pipeline to replace AS 2.0
 
 * Armored Warfare (Scaleform, Haxe)
 
