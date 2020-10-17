@@ -13,7 +13,8 @@ Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript,
 
 ## Achievements
 
-> Over the past 3 years, I've changed the whole UI production process in 3 AAA titles. Warface Breakout is the latest one.
+> Over the past 3 years, I've changed the whole UI production process in 3 AAA titles.  
+> Warface Breakout is the latest one.
 
 ![3 AAA Titles](https://raw.githubusercontent.com/neelts/cv/master/images/cards.png)
 
