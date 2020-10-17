@@ -108,7 +108,7 @@ Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript,
 
 > Sep 2015 — Present
 
-#### UI Developer
+#### Lead UI Developer
 
 * Warface Breakout (Scaleform, Haxe, C++)
 
