@@ -2,7 +2,7 @@
 
 ## Neil Akhmetov
 
-Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript, HTML5 etc...)
+Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript, HTML5 etc...)
 
 #### Relocation
 
@@ -26,11 +26,11 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
 
     * Thanks to this integration, 5 UI designers were able to finally switch from Photoshop to Figma.
     * Developers don't need to manually create a UI in Flash or anywhere else.
-    * QA's don't need to spend time comparing the created UI's with designs.
+    * Q&As don't need to spend time comparing the created UI's with designs.
     * Reduced design and development time for the complex UI's from 1 month to 1 week.
     * The company spends up to 4 times less money on one developer/designer (now we only pay for a Figma subscription).
     * To get a better idea of how cool it is, watch this video showing how I used my Figma pipeline to create a real working Phantom Brigade actions panel: https://www.youtube.com/watch?v=RQmzafva8uw (I've used only E3 2019 gameplay trailer and screenshots as a source
-    * Also check the design itself in Figma: https://www.figma.com/file/bq8wTArnkmHA1Onw8Ao5RR7n/BYG?node-id=2%3A10
+    * Also, check the design itself in Figma: https://www.figma.com/file/bq8wTArnkmHA1Onw8Ao5RR7n/BYG?node-id=2%3A10
     * https://figma.com
 
 ## Pet Projects
@@ -129,9 +129,9 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
 	
 ### Freelance Jobs
 
-* Variuos HTML5 Games and iPad App (promotion) for BeMore.ru (built with Haxe and Pixi.js)
+* Various HTML5 Games and iPad App (promotion) for BeMore.ru (built with Haxe and Pixi.js)
     
-    http://be-more.ru/games (reqiures account, ask me for access)
+    http://be-more.ru/games (requires account)
     
 * UI's for AAA game title (Scaleform) (NDA)
 	
@@ -172,10 +172,10 @@ Seeking a position as an UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript
     
 * Mercedes-Benz GLA and C Class City
 
-    Instagram 3D Cubes Wall for projector
+    Instagram 3D Cubes Wall for a projector
     GLA & C Class model browser for touch tv panel
     
-* Jaguar F-Type Test Drive (several adobe air apps for touch tv panels)
+* Jaguar F-Type Test Drive (some Adobe AIR apps for touch tv panels)
 
     https://www.facebook.com/video.php?v=10151261845447854
     
@@ -287,7 +287,7 @@ University of Management (TISBI, Kazan)
 * Swimming
 * Reading
 * Making and Playing Games (Computer and Board)
-* Ideas Genereation, Brainstorming
+* Ideas Generation, Brainstorming
 
 ## References
 
