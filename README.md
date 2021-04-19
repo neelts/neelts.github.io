@@ -42,6 +42,11 @@ Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript,
 
     ##### Split Vectors
     https://www.figma.com/c/plugin/769868828362075393/Split-Vectors
+    https://github.com/neelts/figma-split-vectors
+    TypeScript
+
+    ##### Precise Gradients
+    https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients
     TypeScript
     
     ##### Create Component Inside
@@ -53,6 +58,12 @@ Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript,
     https://www.figma.com/c/plugin/753968999663099454/Resize-to-Frame
     https://github.com/neelts/figma-resize-to-frame
     TypeScript
+
+* NFTs
+
+    ##### Tiny Devices Collection
+    https://www.hicetnunc.xyz/tz/tz1LCENa3HQkcHPfonn1aYNqS66zWu3LQ4ny
+    SVG, TypeScript
 
 * Unofficial app for Are.na built with Flutter. WIP.
 
