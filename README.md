@@ -9,11 +9,11 @@ Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript,
 * Canada
 * USA
 * Netherlands
-* New Zealand
+* UK
 
 ## Achievements
 
-> Over the past 3 years, I've changed the whole UI production process in 3 AAA titles.  
+> Over the past 4 years, I've changed the whole UI production process in 3 AAA titles.  
 > Warface Breakout is the latest one.
 
 ![3 AAA Titles](https://raw.githubusercontent.com/neelts/cv/master/images/cards.png)
@@ -113,13 +113,21 @@ Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript,
 
 ## Work experience
 
-> 10+ years in the UI/UX development. 5+ years at GameDev.
+> 12+ years in the UI/UX development. 7+ years at GameDev.
 
 ### Mail.ru Group
 
 > Sep 2015 — Present
 
 #### Lead UI Developer
+
+* Warface (Coherent GameFace, TypeScript, Svelte, C++)
+
+	https://warface.com/en
+	
+    Integrated the new UI building pipeline, which exports Figma designs directly to the Svelte/HTML/CSS files.
+    
+    Currently rewriting/refactoring the old UI's with the new pipeline
 
 * Warface Breakout (Scaleform, Haxe, C++)
 
