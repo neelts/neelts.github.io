@@ -21,7 +21,7 @@ Actively seeking a position as a UI/UX Developer
 	* In just a few weeks, over 10 developers have mastered a new language.
 	* Significantly reduced the overall rate of bugs due to the strictness of the language.
 	* Continually improving and introducing new dev features, thanks to macros. For instance, we have managed to reduce the boilerplate code to zero.
-	* https://haxe.org
+	* [https://haxe.org](https://haxe.org)
 
 * Developed a tool with Figma API integration to auto-export UIs directly from Figma to the game engine in seconds.
 
@@ -30,35 +30,29 @@ Actively seeking a position as a UI/UX Developer
 	* Q&As no longer need to spend time comparing the created UIs with designs.
 	* Reduced the design and development time for complex UIs from 1 month to 1 week.
 	* The company now spends up to 4 times less money on one developer/designer (we now only pay for a Figma subscription).
-	* To better understand the impact of this, watch this video showing how I used my Figma pipeline to create a real working Phantom Brigade actions panel: https://www.youtube.com/watch?v=RQmzafva8uw (I've used only E3 2019 gameplay trailer and screenshots as a source)
-	* Also, check the design itself in Figma: https://www.figma.com/file/bq8wTArnkmHA1Onw8Ao5RR7n/BYG?node-id=2%3A10
-	* https://figma.com
+	* To better understand the impact of this, watch this video showing how I used my Figma pipeline to create a real working Phantom Brigade actions panel: [https://www.youtube.com/watch?v=RQmzafva8uw](https://www.youtube.com/watch?v=RQmzafva8uw) (I've used only E3 2019 gameplay trailer and screenshots as a source)
+	* Also, check the design itself in [Figma](https://www.figma.com/file/bq8wTArnkmHA1Onw8Ao5RR7n/BYG?node-id=2%3A10)
+	* [https://figma.com](https://figma.com)
 
 ## Pet Projects
 
 * Figma Plugins (used by more than 30k people)
 
-	- Split Vectors, 25000+ users
-	[https://www.figma.com/c/plugin/769868828362075393/Split-Vectors](https://www.figma.com/c/plugin/769868828362075393/Split-Vectors)
+	- [Split Vectors](https://www.figma.com/c/plugin/769868828362075393/Split-Vectors), 25000+ users
 	
-	[https://github.com/neelts/figma-split-vectors](https://github.com/neelts/figma-split-vectors)
-	TypeScript
+		[https://github.com/neelts/figma-split-vectors](https://github.com/neelts/figma-split-vectors)
+		TypeScript
 
-	- Precise Gradients, ~5k users
-	[https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients](https://github.com/neelts/figma-split-vectors)
-	TypeScript
+	- [Precise Gradients](https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients), ~5k users
 
-	- Create Component Inside, ~2k users
-	[https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside](https://github.com/neelts/figma-split-vectors)
+	- [Create Component Inside](https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside), ~2k users
 
-	[https://github.com/neelts/figma-create-component-inside](https://github.com/neelts/figma-split-vectors)
-	TypeScript
+		[https://github.com/neelts/figma-create-component-inside](https://github.com/neelts/figma-split-vectors)
+		TypeScript
 
-	- Resize To Frame ~2k users
+	- [Resize To Frame](https://github.com/neelts/figma-split-vectors) ~2k users
 
-	[https://www.figma.com/c/plugin/753968999663099454/Resize-to-Frame](https://github.com/neelts/figma-split-vectors)
-
-	[https://github.com/neelts/figma-resize-to-frame](https://github.com/neelts/figma-split-vectors)
+		[https://github.com/neelts/figma-resize-to-frame](https://github.com/neelts/figma-split-vectors)
 	TypeScript
 
 * Figma Automation Tools for building Websites, Apps & Game UIs (WIP)
@@ -87,9 +81,7 @@ Actively seeking a position as a UI/UX Developer
 
 #### Senior UI Programmer
 
-* Generation Zero (Scaleform, C++, Figma, Animate)
-
-	[https://avalanchestudios.com/games/generation-zero](https://github.com/neelts/figma-split-vectors)
+* [Generation Zero](https://avalanchestudios.com/games/generation-zero) (Scaleform, C++, Figma, Animate)
 
 ### My.Games, Moscow
 
@@ -97,33 +89,25 @@ Actively seeking a position as a UI/UX Developer
 
 #### Lead UI Developer
 
-* Warface (Coherent GameFace, TypeScript, Svelte, C++)
-
-	[https://warface.com/en](https://github.com/neelts/figma-split-vectors)
+* [Warface](https://warface.com/en) (Coherent GameFace, TypeScript, Svelte, C++)
 
 	Integrated a new UI building pipeline, which exports Figma designs directly to Svelte/HTML/CSS files.
 
 	Rewrote and refactored the old UIs using the new pipeline
 
-* Warface Breakout (Scaleform, Haxe, C++)
-
-	[https://playbreakout.com](https://github.com/neelts/figma-split-vectors)
+* [Warface Breakout](https://playbreakout.com) (Scaleform, Haxe, C++)
 
 	Developed the entire UI from scratch with Figma integration
 
 	Integrated Haxe compiler into UI development pipeline to replace AS 2.0
 
-* Armored Warfare (Scaleform, Haxe)
-
-	[https://aw.my.games/en](https://github.com/neelts/figma-split-vectors)
+* [Armored Warfare](https://aw.my.games/en) (Scaleform, Haxe)
 	
 	Integrated Haxe compiler into UI development pipeline to replace AS 2.0
 
 	Revolutionized the entire UI production process with Figma API integration
 
-* SkyForge MMORPG (Scaleform, ActionScript 3.0)
-  
-	[https://sf.my.games/en](https://github.com/neelts/figma-split-vectors)
+* [SkyForge MMORPG](https://sf.my.games/en) (Scaleform, ActionScript 3.0)
 
 ### LunaPark, Moscow
 
