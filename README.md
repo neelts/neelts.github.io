@@ -39,26 +39,26 @@ Actively seeking a position as a UI/UX Developer
 * Figma Plugins (used by more than 30k people)
 
 	- Split Vectors, 25000+ users
-	https://www.figma.com/c/plugin/769868828362075393/Split-Vectors
+	[https://www.figma.com/c/plugin/769868828362075393/Split-Vectors](https://www.figma.com/c/plugin/769868828362075393/Split-Vectors)
 	
-	https://github.com/neelts/figma-split-vectors
+	[https://github.com/neelts/figma-split-vectors](https://github.com/neelts/figma-split-vectors)
 	TypeScript
 
 	- Precise Gradients, ~5k users
-	https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients
+	[https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients](https://github.com/neelts/figma-split-vectors)
 	TypeScript
 
 	- Create Component Inside, ~2k users
-	https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside
+	[https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside](https://github.com/neelts/figma-split-vectors)
 
-	https://github.com/neelts/figma-create-component-inside
+	[https://github.com/neelts/figma-create-component-inside](https://github.com/neelts/figma-split-vectors)
 	TypeScript
 
 	- Resize To Frame ~2k users
 
-	https://www.figma.com/c/plugin/753968999663099454/Resize-to-Frame
+	[https://www.figma.com/c/plugin/753968999663099454/Resize-to-Frame](https://github.com/neelts/figma-split-vectors)
 
-	https://github.com/neelts/figma-resize-to-frame
+	[https://github.com/neelts/figma-resize-to-frame](https://github.com/neelts/figma-split-vectors)
 	TypeScript
 
 * Figma Automation Tools for building Websites, Apps & Game UIs (WIP)
@@ -89,7 +89,7 @@ Actively seeking a position as a UI/UX Developer
 
 * Generation Zero (Scaleform, C++, Figma, Animate)
 
-	https://avalanchestudios.com/games/generation-zero
+	[https://avalanchestudios.com/games/generation-zero](https://github.com/neelts/figma-split-vectors)
 
 ### My.Games, Moscow
 
@@ -99,7 +99,7 @@ Actively seeking a position as a UI/UX Developer
 
 * Warface (Coherent GameFace, TypeScript, Svelte, C++)
 
-	https://warface.com/en
+	[https://warface.com/en](https://github.com/neelts/figma-split-vectors)
 
 	Integrated a new UI building pipeline, which exports Figma designs directly to Svelte/HTML/CSS files.
 
@@ -107,7 +107,7 @@ Actively seeking a position as a UI/UX Developer
 
 * Warface Breakout (Scaleform, Haxe, C++)
 
-	https://playbreakout.com
+	[https://playbreakout.com](https://github.com/neelts/figma-split-vectors)
 
 	Developed the entire UI from scratch with Figma integration
 
@@ -115,7 +115,7 @@ Actively seeking a position as a UI/UX Developer
 
 * Armored Warfare (Scaleform, Haxe)
 
-	https://aw.my.games/en
+	[https://aw.my.games/en](https://github.com/neelts/figma-split-vectors)
 	
 	Integrated Haxe compiler into UI development pipeline to replace AS 2.0
 
@@ -123,7 +123,7 @@ Actively seeking a position as a UI/UX Developer
 
 * SkyForge MMORPG (Scaleform, ActionScript 3.0)
   
-	https://sf.my.games/en
+	[https://sf.my.games/en](https://github.com/neelts/figma-split-vectors)
 
 ### LunaPark, Moscow
 
