@@ -52,25 +52,12 @@ Seeking a position as a UI/UX Developer
     https://github.com/neelts/figma-resize-to-frame
     TypeScript
 
-* Unofficial app for Are.na built with Flutter. WIP.
+* Unofficial app for Are.na built with Flutter
 
 * Unofficial Coub app with Android TV support
 
     https://github.com/neelts/coub-tv
     Kotlin, Android
-
-* Instagram bot for copying texts/links/emails/phones (sources are private)
-
-    https://www.instagram.com/get.texts
-    NodeJS, Haxe, Docker
-    
-* Instagram bot for viewing profile avatar images (opensource)
-
-    https://www.instagram.com/get.avatar 
-    NodeJS, Haxe, Docker
-    
-    https://github.com/neelts/instagram-direct-bot
-    
 
 * Figma API lib for Haxe
 
