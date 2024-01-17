@@ -2,18 +2,11 @@
 
 ## Neil Akhmetov
 
-Seeking a position as a UI/UX Developer (Haxe, Dart, Scaleform, C++, TypeScript, HTML5 etc...)
-
-#### Relocation
-
-* Canada
-* USA
-* Netherlands
-* UK
+Seeking a position as a UI/UX Developer
 
 ## Achievements
 
-> Over the past 4 years, I've changed the whole UI production process in 3 AAA titles.  
+> Over the past years, I've changed the whole UI production process in 3 AAA titles.  
 > Warface Breakout is the latest one.
 
 ![3 AAA Titles](https://raw.githubusercontent.com/neelts/cv/master/images/cards.png)
