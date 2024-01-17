@@ -1,7 +1,3 @@
----
-title: false
----
-
 # UI/UX Developer
 
 ## Neil Akhmetov
