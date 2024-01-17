@@ -1,3 +1,9 @@
+---
+title: false
+---
+
+# UI/UX Developer
+
 ## Neil Akhmetov
 
 Actively seeking a position as a UI/UX Developer
