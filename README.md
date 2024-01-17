@@ -69,7 +69,7 @@ Actively seeking a position as a UI/UX Developer
 
 ### Chief Rebel
 
-> May 2023 - Present
+> May 2023 — Present
 
 #### UI/UX Programmer
 
@@ -77,7 +77,7 @@ Actively seeking a position as a UI/UX Developer
 
 ### Avalanche Studios Group - Systemic Reaction
 
-> Sep 2021 - May 2023
+> Sep 2021 — May 2023
 
 #### Senior UI Programmer
 
