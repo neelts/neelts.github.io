@@ -40,6 +40,7 @@ Actively seeking a position as a UI/UX Developer
 
 	##### Split Vectors, 25000+ users
 	https://www.figma.com/c/plugin/769868828362075393/Split-Vectors
+	
 	https://github.com/neelts/figma-split-vectors
 	TypeScript
 
@@ -49,11 +50,14 @@ Actively seeking a position as a UI/UX Developer
 
 	##### Create Component Inside, ~2k users
 	https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside
+
 	https://github.com/neelts/figma-create-component-inside
 	TypeScript
 
 	##### Resize To Frame ~2k users
+
 	https://www.figma.com/c/plugin/753968999663099454/Resize-to-Frame
+
 	https://github.com/neelts/figma-resize-to-frame
 	TypeScript
 
@@ -111,7 +115,6 @@ Actively seeking a position as a UI/UX Developer
 
 * Armored Warfare (Scaleform, Haxe)
 
-	https://aw.my.games/en
 	https://aw.my.games/en
 	
 	Integrated Haxe compiler into UI development pipeline to replace AS 2.0

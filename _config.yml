@@ -1,0 +1,6 @@
+﻿title: UI/UX Developer - Neil Akhmetov
+url: "https://neelts.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+skin: "dark"
+plugins:
+  - jekyll-include-cache
