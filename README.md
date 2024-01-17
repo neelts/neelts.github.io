@@ -173,6 +173,6 @@ University of Management (TISBI, Kazan)
 
 ## References
 
-* http://about.me/neelts
+* [http://about.me/neelts](http://about.me/neelts)
 
 ![3 AAA Titles](https://raw.githubusercontent.com/neelts/cv/master/images/cards.png)
