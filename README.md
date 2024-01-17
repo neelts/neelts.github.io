@@ -1,5 +1,3 @@
-# UI/UX Developer
-
 ## Neil Akhmetov
 
 Actively seeking a position as a UI/UX Developer
@@ -38,23 +36,23 @@ Actively seeking a position as a UI/UX Developer
 
 * Figma Plugins (used by more than 30k people)
 
-	##### Split Vectors, 25000+ users
+	#### Split Vectors, 25000+ users
 	https://www.figma.com/c/plugin/769868828362075393/Split-Vectors
 	
 	https://github.com/neelts/figma-split-vectors
 	TypeScript
 
-	##### Precise Gradients, ~5k users
+	#### Precise Gradients, ~5k users
 	https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients
 	TypeScript
 
-	##### Create Component Inside, ~2k users
+	#### Create Component Inside, ~2k users
 	https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside
 
 	https://github.com/neelts/figma-create-component-inside
 	TypeScript
 
-	##### Resize To Frame ~2k users
+	#### Resize To Frame ~2k users
 
 	https://www.figma.com/c/plugin/753968999663099454/Resize-to-Frame
 
