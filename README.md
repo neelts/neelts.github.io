@@ -52,12 +52,6 @@ Seeking a position as a UI/UX Developer
     https://github.com/neelts/figma-resize-to-frame
     TypeScript
 
-* NFTs
-
-    ##### Tiny Devices Collection
-    https://www.hicetnunc.xyz/tz/tz1LCENa3HQkcHPfonn1aYNqS66zWu3LQ4ny
-    SVG, TypeScript
-
 * Unofficial app for Are.na built with Flutter. WIP.
 
 * Unofficial Coub app with Android TV support
