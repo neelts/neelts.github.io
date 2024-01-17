@@ -14,8 +14,6 @@ Actively seeking a position as a UI/UX Developer
 * The tool imports design tokens, generates style blueprints for Common UI, and automatically downloads textures and fonts.
 * UI updates can be performed by designers without the need for programmer/scripter assistance.
 
-![3 AAA Titles](https://raw.githubusercontent.com/neelts/cv/master/images/cards.png)
-
 ### Warface & Armored Warfare
 
 * Successfully integrated a modern Haxe compiler to replace ActionScript.
@@ -97,7 +95,7 @@ Actively seeking a position as a UI/UX Developer
 
 * Warface (Coherent GameFace, TypeScript, Svelte, C++)
 
- https://warface.com/en
+	https://warface.com/en
 
 	Integrated a new UI building pipeline, which exports Figma designs directly to Svelte/HTML/CSS files.
 
@@ -105,7 +103,7 @@ Actively seeking a position as a UI/UX Developer
 
 * Warface Breakout (Scaleform, Haxe, C++)
 
- https://playbreakout.com
+	https://playbreakout.com
 
 	Developed the entire UI from scratch with Figma integration
 
@@ -114,15 +112,15 @@ Actively seeking a position as a UI/UX Developer
 * Armored Warfare (Scaleform, Haxe)
 
 	https://aw.my.games/en
-	https://en.wikipedia.org/wiki/Armored_Warfare
+	https://aw.my.games/en
 	
 	Integrated Haxe compiler into UI development pipeline to replace AS 2.0
 
 	Revolutionized the entire UI production process with Figma API integration
 
 * SkyForge MMORPG (Scaleform, ActionScript 3.0)
-
- http://skyforge.com
+  
+	https://sf.my.games/en
 
 ### LunaPark, Moscow
 
@@ -173,3 +171,5 @@ University of Management (TISBI, Kazan)
 ## References
 
 * http://about.me/neelts
+
+![3 AAA Titles](https://raw.githubusercontent.com/neelts/cv/master/images/cards.png)
