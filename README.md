@@ -2,6 +2,11 @@
 
 ## Neil Akhmetov
 
+## Contacts
+[neeelts@gmail.com](mailto:neeelts@gmail.com)
+[+46733223842](tel:+46733223842)
+Stockholm, Sweden
+
 Actively seeking a position as a UI/UX Developer
 
 ## Achievements
