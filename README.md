@@ -6,7 +6,9 @@
 
 ## Contacts
 > [neeelts@gmail.com](mailto:neeelts@gmail.com)
+
 > [+46733223842](tel:+46733223842)
+
 > Stockholm, Sweden
 
 ## Achievements
