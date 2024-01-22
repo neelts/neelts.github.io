@@ -21,16 +21,16 @@
 * The tool imports design tokens, generates style blueprints for Common UI, and automatically downloads textures and fonts.
 * UI updates can be performed by designers without the need for programmer/scripter assistance.
 
-### Warface & Armored Warfare
+### Warface, Warface Breakout & Armored Warfare
 
-* Successfully integrated a modern Haxe compiler to replace ActionScript.
+* Implemented a new UI building pipeline that converts Figma designs into Svelte/HTML/CSS files for Coherent GameFace.
+	* This integration allows programmers to focus solely on writing logic code, eliminating the need for creating markup or styles.
+	* Designers are empowered to make updates independently with just a single click.
+	* The process of UI development and iteration has become significantly faster.
+	* Successfully transitioned from React to Svelte over time, a crucial move for a fast-paced online shooter due to Svelte's superior speed.
+	* [Coherent GameFace](https://coherent-labs.com/products/coherent-gameface/)
 
-	* In just a few weeks, over 10 developers have mastered a new language.
-	* Significantly reduced the overall rate of bugs due to the strictness of the language.
-	* Continually improving and introducing new dev features, thanks to macros. For instance, we have managed to reduce the boilerplate code to zero.
-	* [https://haxe.org](https://haxe.org)
-
-* Developed a tool with Figma API integration to auto-export UIs directly from Figma to the game engine in seconds.
+* Developed a tool with Figma API integration to auto-export UIs directly from Figma to the Scaleform (Armored Warfare & Warface Breakout).
 
 	* This integration enabled 5 UI designers to transition from Photoshop to Figma.
 	* Developers no longer need to manually create a UI in Flash or elsewhere.
@@ -40,6 +40,13 @@
 	* To better understand the impact of this, watch this video showing how I used my Figma pipeline to create a real working Phantom Brigade actions panel: [https://www.youtube.com/watch?v=RQmzafva8uw](https://www.youtube.com/watch?v=RQmzafva8uw) (I've used only E3 2019 gameplay trailer and screenshots as a source)
 	* Also, check the design itself in [Figma](https://www.figma.com/file/bq8wTArnkmHA1Onw8Ao5RR7n/BYG?node-id=2%3A10)
 	* [https://figma.com](https://figma.com)
+
+* Successfully integrated a modern Haxe compiler to replace ActionScript (Armored Warfare & Warface Breakout).
+	
+	* In just a few weeks, over 10 developers have mastered a new language.
+	* Significantly reduced the overall rate of bugs due to the strictness of the language.
+	* Continually improving and introducing new dev features, thanks to macros. For instance, we have managed to reduce the boilerplate code to zero.
+	* [https://haxe.org](https://haxe.org)
 
 ## Pet Projects
 
