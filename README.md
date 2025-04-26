@@ -91,13 +91,15 @@
 
 > May 2024 - Present
 
+* [The Finals](https://www.reachthefinals.com/) (Unreal Engine, C++, AngelScript, Blueprints, Figma)
+
 ### Chief Rebel
 
 > May 2023 — May 2024
 
 #### UI/UX Programmer
 
-* Unannounced project (Unreal Engine, C++, Blueprints, Figma To Unreal Automation)
+* [Fellowship](https://store.steampowered.com/app/2352620/Fellowship/) (Unreal Engine, C++, Blueprints, Figma To Unreal Automation)
 
 ### Avalanche Studios Group - Systemic Reaction
 
