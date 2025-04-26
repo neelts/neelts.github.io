@@ -91,6 +91,8 @@
 
 > May 2024 - Present
 
+#### Senior Game UI Programmer
+
 * [The Finals](https://www.reachthefinals.com/) (Unreal Engine, C++, AngelScript, Blueprints, Figma)
 
 ### Chief Rebel
