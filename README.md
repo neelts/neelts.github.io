@@ -15,6 +15,10 @@
 
 > Over the past years, I have revolutionized the UI production process in three AAA titles, and continued this mission within my current UI/UX Programmer role at Chief Rebel.
 
+### The Finals at Embark Studios
+
+* My current job, more details soon
+
 ### Fellowship at Chief Rebel
 
 * Automated UI import and generation of assets from Figma with C++ plugins built for UE 5.2, achieved since the third month of my tenure.
