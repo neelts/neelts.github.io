@@ -15,13 +15,13 @@
 
 > Over the past years, I have revolutionized the UI production process in three AAA titles, and continued this mission within my current UI/UX Programmer role at Chief Rebel.
 
-### Unannounced game at Chief Rebel
+### Fellowship at Chief Rebel
 
 * Automated UI import and generation of assets from Figma with C++ plugins built for UE 5.2, achieved since the third month of my tenure.
 * The tool imports design tokens, generates style blueprints for Common UI, and automatically downloads textures and fonts.
 * UI updates can be performed by designers without the need for programmer/scripter assistance.
 
-### Warface, Warface Breakout & Armored Warfare
+### Warface, Warface Breakout & Armored Warfare at My.Games
 
 * Implemented a new UI building pipeline that converts Figma designs into Svelte/HTML/CSS files for Coherent GameFace.
 	* This integration allows programmers to focus solely on writing logic code, eliminating the need for creating markup or styles.
@@ -50,21 +50,23 @@
 
 ## Pet Projects
 
-* Figma Plugins (used by more than 30k people)
+* Figma Plugins (used by more than 50k people)
 
-	- [Split Vectors](https://www.figma.com/c/plugin/769868828362075393/Split-Vectors), 25000+ users
+	- [Dynamic Variables](https://www.figma.com/community/plugin/1365339609215368041/dynamic-variables), ~1k users, 10% paying users share
+
+	- [Split Vectors](https://www.figma.com/c/plugin/769868828362075393/Split-Vectors), 36500+ users
 	
 		[https://github.com/neelts/figma-split-vectors](https://github.com/neelts/figma-split-vectors)
 		TypeScript
 
-	- [Precise Gradients](https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients), ~5k users
+	- [Precise Gradients](https://www.figma.com/community/plugin/910239409824697350/Precise-Gradients), ~7k users
 
-	- [Create Component Inside](https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside), ~2k users
+	- [Create Component Inside](https://www.figma.com/c/plugin/754240053660034676/Create-Component-Inside), ~3k users
 
 		[https://github.com/neelts/figma-create-component-inside](https://github.com/neelts/figma-split-vectors)
 		TypeScript
 
-	- [Resize To Frame](https://github.com/neelts/figma-split-vectors) ~2k users
+	- [Resize To Frame](https://github.com/neelts/figma-split-vectors) ~3k users
 
 		[https://github.com/neelts/figma-resize-to-frame](https://github.com/neelts/figma-split-vectors)
 	TypeScript
@@ -79,11 +81,15 @@
 
 ## Work experience
 
-> I have over 16 years of experience in UI/UX development, with 11 of those years spent in GameDev.
+> I have over 17 years of experience in UI/UX development, with 12 of those years spent in GameDev.
+
+### Embark Studios
+
+> May 2024 - Present
 
 ### Chief Rebel
 
-> May 2023 — Present
+> May 2023 — May 2024
 
 #### UI/UX Programmer
 
